@@ -60,6 +60,7 @@
             this.buttonSubtrair.TabIndex = 1;
             this.buttonSubtrair.Text = "Subtrair";
             this.buttonSubtrair.UseVisualStyleBackColor = true;
+            this.buttonSubtrair.Click += new System.EventHandler(this.buttonSubtrair_Click);
             // 
             // buttonMultiplicar
             // 

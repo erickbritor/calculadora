@@ -31,5 +31,17 @@ namespace Calculadora.Formulario
             textBoxTotal.Text = resultado.ToString();
 
         }
+
+        private void buttonSubtrair_Click(object sender, EventArgs e)
+        {
+            int valor1, valor2, resultado;
+
+            valor1 = Convert.ToInt32(textBox1.Text);
+            valor2 = Convert.ToInt32(textBox2.Text);
+
+            resultado = valor1 - valor2;
+
+            textBoxTotal.Text = resultado.ToString();
+        }
     }
 }
