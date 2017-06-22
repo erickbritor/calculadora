@@ -1,1 +1,2 @@
 T:\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+T:\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
